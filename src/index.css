@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Imperial+Script&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Limelight&family=Martel+Sans:wght@200;300;400;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+/* Fonts */
+
+.martel-sans-extralight {
+  font-family: "Martel Sans", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.martel-sans-light {
+  font-family: "Martel Sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.martel-sans-regular {
+  font-family: "Martel Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.martel-sans-semibold {
+  font-family: "Martel Sans", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.martel-sans-bold {
+  font-family: "Martel Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.martel-sans-extrabold {
+  font-family: "Martel Sans", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.martel-sans-black {
+  font-family: "Martel Sans", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
